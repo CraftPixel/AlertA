@@ -1,0 +1,10 @@
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\bin\Debug\BlueScreenOfDeath.exe.config
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\bin\Debug\BlueScreenOfDeath.exe
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\bin\Debug\BlueScreenOfDeath.pdb
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\obj\Debug\BlueScreenOfDeath.csprojResolveAssemblyReference.cache
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\obj\Debug\BlueScreenOfDeath.Form1.resources
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\obj\Debug\BlueScreenOfDeath.Properties.Resources.resources
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\obj\Debug\BlueScreenOfDeath.csproj.GenerateResource.Cache
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\obj\Debug\BlueScreenOfDeath.csproj.CoreCompileInputs.cache
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\obj\Debug\BlueScreenOfDeath.exe
+C:\Users\myhum\source\repos\BlueScreenOfDeath\BlueScreenOfDeath\obj\Debug\BlueScreenOfDeath.pdb
